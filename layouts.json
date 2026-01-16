@@ -779,6 +779,7 @@
         },
         {
             "name": "Noted",
+            "dllName": "kbdnoted.dll",
             "modifiers": {
                 "2A":  "LShift",
                 "36+": "RShift",
