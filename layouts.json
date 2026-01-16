@@ -296,6 +296,7 @@
         },
         {
             "name": "AdNW",
+            "dllName": "adnwb.dll",
             "modifiers": {
                 "2A":  "LShift",
                 "36+": "RShift",
@@ -491,6 +492,7 @@
         },
         {
             "name": "KOY",
+            "dllName": "kbdkoy.dll",
             "modifiers": {
                 "2A":  "LShift",
                 "36+": "RShift",
